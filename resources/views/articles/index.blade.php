@@ -7,7 +7,7 @@
       height: 35px;
   }
 </style>
-<a href="{{route('articles.create')}}" class="btn btn-primary">Add Product</a><br>
+
 @foreach($articles as $article)
 <div class="col-sm-6 col-md-4 col-lg-3">
     <div class="box">
@@ -31,12 +31,7 @@
     
       </a>
     </div>
-    <form action="{{ route('articles.destroy',$article->id) }}" method="Post">
-      <a class="btn btn-primary" href="{{ route('articles.edit', $article->id) }}">Edit</a>
-      @csrf
-      @method('DELETE')
-      <button type="submit" class="btn btn-danger">Delete</button>
-    </form>
+    
   </div>
 @endforeach
 @endsection

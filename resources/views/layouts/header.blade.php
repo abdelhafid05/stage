@@ -45,7 +45,7 @@
             </li>
           </ul>
           <div class="user_option">
-            <a href="">
+            <a href="{{route('login.show')}}">
               <i class="fa fa-user" aria-hidden="true"></i>
               <span>
                 Login
