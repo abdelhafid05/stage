@@ -10,6 +10,10 @@ class ArticleController extends Controller
     /**
      * Display a listing of the resource.
      */
+    public function why()
+    {
+        return view('layouts.why');
+    }
     public function index()
     {
         $articles = Article::all();
@@ -30,7 +34,7 @@ class ArticleController extends Controller
     public function store(Request $request)
     {
         $data = $request->validate([
-            'photo' => 'image|mimes:jpeg,png,jpg,gif|max:2048',
+            'photo' => 'required|image|mimes:jpeg,png,jpg,gif|max:2048',
             'designation' => 'required',
             'prix' => 'required',
             'description' => 'required',

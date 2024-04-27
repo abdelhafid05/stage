@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Design by foolishdeveloper.com -->
-    <title>Glassmorphism login Form Tutorial in html css</title>
+    <title>Login Page</title>
  
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -145,11 +145,22 @@ button{
 
         <label for="username">Email</label>
         <input type="text" placeholder="Email" id="username" class="email" name="login"> 
+        <div>
+            @error('login')
+                    <div class="alert alert-danger mt-1 mb-1">{{ $message }}</div>
+                @enderror
+        </div>
 
         <label for="password">Password</label>
-        <input type="password" placeholder="Password" id="password" name="password"> <!-- Added 'name' attribute -->
+        <input type="password" placeholder="Password" id="password" name="password">
+        <div>
+            @error('password')
+                    <div class="alert alert-danger mt-1 mb-1">{{ $message }}</div>
+                @enderror
+        </div>
 
         <button type="submit">Log In</button> <!-- Added 'type' attribute -->
+        <a href="{{route('articles.index')}}">back</a>
     </form>
 </body>
 </html>

@@ -20,5 +20,6 @@ class UsersTableSeeder extends Seeder
             'email' => 'nada123@artical.com',
             'password' => Hash::make('123456789'),
         ]);
+        
     }
 }

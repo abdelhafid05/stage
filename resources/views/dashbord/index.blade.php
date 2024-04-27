@@ -105,6 +105,7 @@ section:last-child {
     <ul>
       <li><a href="{{route('dashbord.home')}}">Home</a></li>
       <li><a href="{{route('articles.index')}}">Visit Website</a></li>
+      <li><a href="{{route('users.index')}}">Update Profile</a></li>
       
     </ul>
     <a href="{{route('login.logout')}}" class="logout-btn">log out</a>
@@ -112,6 +113,7 @@ section:last-child {
   <div class="content">
     <!-- Your content goes here -->
     @yield('start')
+    @yield('content')
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>

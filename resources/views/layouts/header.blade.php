@@ -31,17 +31,12 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="why.html">
+              <a class="nav-link" href="{{route('layouts.why')}}">
                 Why Us
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="testimonial.html">
-                Testimonial
-              </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact Us</a>
+              <a class="nav-link" href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">Contact Us</a>
             </li>
           </ul>
           <div class="user_option">

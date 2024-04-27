@@ -10,6 +10,7 @@
                 @error('photo')
                     <div class="alert alert-danger mt-1 mb-1">{{ $message }}</div>
                 @enderror
+                
             </div>
             
             
@@ -38,7 +39,7 @@
                 @enderror
             </div>
             
-            <button type="submit" class="btn btn-primary">Create Article</button><a class="btn btn-secondary" href="{{route('articles.index')}}">back</a>
+            <button type="submit" class="btn btn-primary">Create Article</button><a class="btn btn-secondary" href="{{route('dashbord.home')}}">back</a>
         </form>
     </div>
 </div>
