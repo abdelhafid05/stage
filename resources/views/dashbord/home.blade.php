@@ -21,7 +21,13 @@
     </thead>
     @foreach ($products as $product) 
             <tr>
-                <td> <img src="{{ asset($product->photo) }}" class="card-img-top" alt="product Photo" style="width: 100px; height: 100px;"></td>
+                <td> 
+                  @if($product->photo == null)
+                  <img src="{{ asset("images\Empty state concept.jpeg") }}" class="card-img-top" alt="product Photo" style="width: 100px; height: 100px;">
+                @else
+                <img src="{{ asset($product->photo) }}" class="card-img-top" alt="product Photo" style="width: 100px; height: 100px;">
+                @endif
+              </td>
                 <td>{{$product->designation}}</td>
                 <td>{{$product->prix}}</td>
                 <td>{{$product->description}}</td>
