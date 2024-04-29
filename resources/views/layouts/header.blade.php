@@ -7,11 +7,26 @@
         color: #333; /* Set font color to dark gray */
         /* You can add more styling properties here */
     }
+    @keyframes colorChange {
+    0% { color: pink; } 
+    50% { color: #ff0000; } 
+    100% { color: #333; } 
+}
+
+.font {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    color: #333;
+    animation: colorChange 2s infinite; 
+}
+
 
 </style>
 <header class="header_section">
       <nav class="navbar navbar-expand-lg custom_nav-container ">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="{{route('articles.index')}}">
           <span class="font">
             Nataura
           </span>
@@ -23,17 +38,15 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav  ">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="{{route('articles.index')}}">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="shop.html">
+              <a class="nav-link" href="{{route('articles.index')}}">
                 Shop
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{route('layouts.why')}}">
-                Why Us
-              </a>
+            
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">Contact Us</a>
@@ -46,13 +59,9 @@
                 Login
               </span>
             </a>
-            <a href="">
-              <i class="fa fa-shopping-bag" aria-hidden="true"></i>
-            </a>
+           
             <form class="form-inline ">
-              <button class="btn nav_search-btn" type="submit">
-                <i class="fa fa-search" aria-hidden="true"></i>
-              </button>
+             
             </form>
           </div>
         </div>
