@@ -3,12 +3,12 @@
 <div class="container">
     <div class="row">
       <div class="col text-center">
-        <h1>Here is The Users</h1>
+        <h1>Here is The Admins</h1>
       </div>
     </div>
   </div>
     <div class="table-container">
-        <a href="{{route('users.create')}}" class="btn btn-primary">Add Email</a><br>
+        <a href="{{route('users.create')}}" class="btn btn-primary">Add Admin</a><br>
         <table class="table">
             <thead>
                 <tr>

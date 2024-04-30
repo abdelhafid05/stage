@@ -9,7 +9,6 @@
   </div>
   <a href="{{route('dashbord.create')}}" class="btn btn-primary">Add Product</a><br>
 <table class="table">
-    
     <thead>
       <tr class="table-active">
         <th scope="col">Photo</th>

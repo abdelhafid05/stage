@@ -8,14 +8,14 @@
                   <div class="col-md-7">
                     <div class="detail-box">
                       <h1>
-                        Welcome To <br>
-                        NATAURA Shop
+                        Bienvenue dans notre magasin <br>
+                        NATAURA
                       </h1>
                       <p>
                         Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
                       </p>
-                      <a href="">
-                        Order Now
+                      <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">
+                        Contact
                       </a>
                     </div>
                   </div>
@@ -33,14 +33,14 @@
                   <div class="col-md-7">
                     <div class="detail-box">
                       <h1>
-                        Welcome To Our <br>
-                        Gift Shop
+                        Bienvenue dans notre magasin <br>
+                        NATAURA
                       </h1>
                       <p>
                         Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
                       </p>
-                      <a href="">
-                        Contact Us
+                      <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">
+                        Contact 
                       </a>
                     </div>
                   </div>
@@ -58,14 +58,14 @@
                   <div class="col-md-7">
                     <div class="detail-box">
                       <h1>
-                        Welcome To Our <br>
-                        Gift Shop
+                        Bienvenue dans notre magasin <br>
+                        NATAURA
                       </h1>
                       <p>
                         Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
                       </p>
-                      <a href="">
-                        Contact Us
+                      <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">
+                        Contact
                       </a>
                     </div>
                   </div>
@@ -97,15 +97,15 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Latest Products
+        Les Derniers Produits
         </h2>
       </div>
       <div class="row">
         @yield('start')
       </div>
       <div class="btn-box">
-        <a href="">
-          View All Products
+        <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">
+          Buy Now
         </a>
       </div>
     </div>
