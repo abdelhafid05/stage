@@ -37,6 +37,7 @@
     </div>
     
   </div>
-@endforeach
+@endforeach <br><br>
+{{ $articles->links() }}
 @endsection
 

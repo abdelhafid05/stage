@@ -26,10 +26,7 @@ Route::redirect('/', '/articles');
 Route::resource('/articles', ArticleController::class);
 Route::get('/dashboard/why', [ArticleController::class, 'why'])->name('layouts.why');
 
-
 Route::resource('/users', UserController::class); 
-
-
 
 Route::get('/dashboard', [DashbordController::class, 'dash'])->name('dashbord.index')->middleware('auth');
 Route::get('/dashboard/home', [DashbordController::class, 'home'])->name('dashbord.home')->middleware('auth');
