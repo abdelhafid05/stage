@@ -25,7 +25,7 @@
                   </div>
                   <div class="col-md-5 ">
                     <div class="img-box">
-                      <img src="images/image1.jpeg" alt="makeup prodits" />
+                      <img src="images/WhatsApp Image 2024-04-30 at 11.34.39_cc42142f.jpg" alt="makeup prodits" />
                     </div>
                   </div>
                 </div>
@@ -49,7 +49,7 @@
                   </div>
                   <div class="col-md-5 ">
                     <div class="img-box">
-                      <img src="images/WhatsApp Image 2024-04-30 at 11.34.39_cc42142f.jpg" alt="cosmitic produits" />                               
+                      <img src="images/image1.jpeg" alt="cosmitic produits" />                               
                     </div>
                   </div>
                 </div>
