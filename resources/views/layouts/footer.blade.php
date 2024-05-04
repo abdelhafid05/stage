@@ -16,8 +16,7 @@
               ABOUT US
             </h6>
             <p>
-            NATAURA est un site spécialisé dans la vente de produits de beauté de haute qualité, offrant une gamme variée de cosmétiques allant des soins pour la peau au maquillage. Notre objectif est de garantir une expérience de shopping exceptionnelle à nos clients en proposant des produits haut de gamme et en veillant à leur satisfaction. Avec NATAURA, découvrez une sélection soigneusement choisie pour sublimer votre beauté naturelle.            </p>
-          </div>
+              NATAURA vend des produits de beauté haut de gamme, de soins pour la peau au maquillage, offrant une expérience shopping exceptionnelle. Découvrez notre sélection pour sublimer votre beauté naturelle. </div>
           <div class="col-md-6 col-lg-3">
             <div class="info_form ">
               <h5>
@@ -33,10 +32,10 @@
           </div>
           <div class="col-md-6 col-lg-3">
             <h6>
-              NEED HELP
+              Besoin d'assistance
             </h6>
             <p>
-             
+              Nous sommes là pour vous aider à trouver les produits de beauté parfaits pour vous
             </p>
           </div>
           <div class="col-md-6 col-lg-3">
@@ -45,16 +44,16 @@
             </h6>
             <div class="info_link-box">
               <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">
-              <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+              <i class="fab fa-instagram fa-3x"></i>
                 <span> CONTACT ME IN INSTAGRAM </span>
               </a>
               <a href="">
                 <i class="fa fa-phone" aria-hidden="true"></i>
-                <span></span>
+                <span>+212 628-315801</span>
               </a>
               <a href="">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
-                <span> demo@gmail.com</span>
+                <span> nataura.by.na@gmail.com</span>
               </a>
             </div>
           </div>

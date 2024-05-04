@@ -93,14 +93,16 @@ section:last-child {
 .logout-btn:hover {
   background-color: #c82333;
 }
-
+.img1{
+  border-radius: 8px;
+}
   </style>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 <body>
   <div class="sidebar">
     <div class="logo">
-        <img src="{{ asset('Beauty_woman_hair_logo_design_and_business_card_vector_illustration_template-removebg-preview.png') }}" alt="Company Logo" style="width: 150px; height: auto;">
+        <img class="img1" src="{{ asset('WhatsApp Image 2024-04-30 at 11.34.39_cc42142f.jpg') }}" alt="Company Logo" style="width: 150px; height: 150px;">
     </div>
     <ul>
       <li><a href="{{route('dashbord.home')}}">Home</a></li>

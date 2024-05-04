@@ -1,29 +1,30 @@
 <section class="saving_section ">
+  <style>
+    img{
+      margin-bottom: 50px;
+    }
+  </style>
     <div class="box">
       <div class="container-fluid">
         <div class="row">
           <div class="col-lg-6">
             <div class="img-box">
-              <img src="images/saving-img.png" alt="">
+              <img class="img1" src="images/Body cream and lotion bottles.jpeg" alt="Rouge à lèvres">
             </div>
           </div>
           <div class="col-lg-6">
             <div class="detail-box">
               <div class="heading_container">
                 <h2>
-                  Best Savings on <br>
-                  new arrivals
+                  Explorez le monde naturel <br>
+                  avec NATAURA
                 </h2>
               </div>
               <p>
-                Qui ex dolore at repellat, quia neque doloribus omnis adipisci, ipsum eos odio fugit ut eveniet blanditiis praesentium totam non nostrum dignissimos nihil eius facere et eaque. Qui, animi obcaecati.
-              </p>
+                Bienvenue chez NATAURA, votre destination pour des produits naturels et durables. Découvrez notre sélection de produits soigneusement choisis pour un mode de vie sain et respectueux de l'environnement.             </p>
               <div class="btn-box">
                 <a href="#" class="btn1">
-                  Buy Now
-                </a>
-                <a href="#" class="btn2">
-                  See More
+                  Contact
                 </a>
               </div>
             </div>

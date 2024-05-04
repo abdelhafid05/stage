@@ -1,4 +1,4 @@
-<style>
+{{-- <style>
     .containerd {
         background-color: #ffcccc; /* Rose color */
         padding: 50px 0; /* Optional: Add padding to the section */
@@ -36,4 +36,4 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}

@@ -1,3 +1,8 @@
+<style>
+  img{
+    border-radius: 9px;
+  }
+</style>
 <section class="slider_section">
       <div class="slider_container">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -12,16 +17,15 @@
                         NATAURA
                       </h1>
                       <p>
-                        Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
-                      </p>
+                        Bienvenue chez NATAURA, votre destination pour des produits naturels de qualité. Découvrez notre sélection soigneusement choisie de cosmétiques, produits alimentaires biologiques et articles de bien-être. Nous privilégions des sources durables et éthiques pour des choix respectueux de l'environnement. Laissez-nous vous guider vers un mode de vie plus sain et plus naturel.  </p>
                       <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">
-                        Contact
+                        Achetez maintenant!
                       </a>
                     </div>
                   </div>
                   <div class="col-md-5 ">
                     <div class="img-box">
-                      <img src="images/slider-img.png" alt="" />
+                      <img src="images/image1.jpeg" alt="makeup prodits" />
                     </div>
                   </div>
                 </div>
@@ -37,16 +41,15 @@
                         NATAURA
                       </h1>
                       <p>
-                        Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
-                      </p>
+                        Bienvenue chez NATAURA, votre destination pour des produits naturels de qualité. Découvrez notre sélection soigneusement choisie de cosmétiques, produits alimentaires biologiques et articles de bien-être. Nous privilégions des sources durables et éthiques pour des choix respectueux de l'environnement. Laissez-nous vous guider vers un mode de vie plus sain et plus naturel. </p>
                       <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">
-                        Contact 
+                        Achetez maintenant!
                       </a>
                     </div>
                   </div>
                   <div class="col-md-5 ">
                     <div class="img-box">
-                      <img src="images/slider-img.png" alt="" />
+                      <img src="images/WhatsApp Image 2024-04-30 at 11.34.39_cc42142f.jpg" alt="cosmitic produits" />                               
                     </div>
                   </div>
                 </div>
@@ -62,16 +65,15 @@
                         NATAURA
                       </h1>
                       <p>
-                        Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
-                      </p>
-                      <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">
-                        Contact
+                        Bienvenue chez NATAURA, votre destination pour des produits naturels de qualité. Découvrez notre sélection soigneusement choisie de cosmétiques, produits alimentaires biologiques et articles de bien-être. Nous privilégions des sources durables et éthiques pour des choix respectueux de l'environnement. Laissez-nous vous guider vers un mode de vie plus sain et plus naturel. </p>
+                      <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">     
+                        Achetez maintenant!
                       </a>
                     </div>
                   </div>
                   <div class="col-md-5 ">
                     <div class="img-box">
-                      <img src="images/slider-img.png" alt="" />
+                      <img src="images/Free Photo _ Top view gua sha and care products.jpeg" alt="poduits de cosmitic" />
                     </div>
                   </div>
                 </div>
@@ -105,7 +107,7 @@
       </div>
       <div class="btn-box">
         <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">
-          Buy Now
+          shop now!
         </a>
       </div>
     </div>
