@@ -11,8 +11,8 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <meta name="author" content="" />
-  
-
+  <!-- Site icon -->
+  <link rel="shortcut icon" type="nataura-icon" href="images/WhatsApp Image 2024-04-30 at 11.34.39_cc42142f.jpg">
   <title>
     Nataura
   </title>
