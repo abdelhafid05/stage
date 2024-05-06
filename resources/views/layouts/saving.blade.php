@@ -23,7 +23,7 @@
               <p>
                 Bienvenue chez NATAURA, votre destination pour des produits naturels et durables. Découvrez notre sélection de produits soigneusement choisis pour un mode de vie sain et respectueux de l'environnement.             </p>
               <div class="btn-box">
-                <a href="#" class="btn1">
+                <a href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy" class="btn1">
                   Contact
                 </a>
               </div>

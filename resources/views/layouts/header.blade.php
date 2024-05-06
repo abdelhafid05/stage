@@ -41,7 +41,7 @@
               <a class="nav-link" href="{{route('articles.index')}}">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{route('articles.index')}}">
+              <a class="nav-link" href="https://www.instagram.com/nataurabyna?igsh=NnprZjNmM2tqbWNy">
                 Shop
               </a>
             </li>

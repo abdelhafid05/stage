@@ -16,7 +16,7 @@
   <title>
     Nataura
   </title>
-
+  
   @include('layouts.css')
 
 </head>

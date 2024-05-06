@@ -49,7 +49,7 @@
                   </div>
                   <div class="col-md-5 ">
                     <div class="img-box">
-                      <img src="images/image1.jpeg" alt="cosmitic produits" />                               
+                      <img src="images/DIY Aloe Vera Face Mask for Glowing Skin (1).jpeg" alt="cosmitic produits" />                            
                     </div>
                   </div>
                 </div>
